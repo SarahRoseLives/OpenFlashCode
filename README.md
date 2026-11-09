@@ -126,3 +126,8 @@ The tests cover legacy and APX formatting, the base-64 alphabet, parsing, check 
 - The decoder accepts a wrong check digit and reports it as a mismatch instead of refusing the code.
 - Option compatibility notes are stored in the database but are not shown as hover tooltips.
 - This project is independent and is not affiliated with or endorsed by Motorola Solutions or akardam.net. Motorola, APX, SRX, and FLASHcode are trademarks of their respective owners.
+
+## License
+
+MIT License. Copyright (c) 2026 SarahRoseLives. See [LICENSE](LICENSE).
+
